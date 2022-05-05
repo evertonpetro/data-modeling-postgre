@@ -19,4 +19,5 @@ Number of users level most listened to.
 Run on Terminal:
 
 `python create_tables.py`
+
 `python etl.py`
